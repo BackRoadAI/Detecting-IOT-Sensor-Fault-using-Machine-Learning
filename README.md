@@ -17,7 +17,7 @@ To save cost and labour the company wants engineers to be sure about condition o
 
 Step 1
 ```
-git clone https://github.com/vaasu2002/Detecting-IOT-Sensor-Failures-using-Machine-Learning.git
+git clone https://github.com/BackRoadAI/Detecting-IOT-Sensor-Fault-using-Machine-Learning.git
 ```
 
 Step 2
